@@ -1,0 +1,3 @@
+# git to ignore these folders and files
+
+*/node_modules/*
